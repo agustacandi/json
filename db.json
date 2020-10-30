@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": 1,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
             "title": "Jujutsu Kaisen",
             "synonim": "Sorcery Fight",
             "japanese": "呪術廻戦",
@@ -14,7 +14,7 @@
         },
         {
             "id": 2,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg",
             "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
             "synonim": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
             "japanese": "ダンジョンに出会いを求めるのは間違っているだろうかIII",
@@ -26,7 +26,7 @@
         },
         {
             "id": 3,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
             "title": "Haikyuu!!: To the Top 2nd Season",
             "synonim": "Haikyuu!! (2020) 2nd Season",
             "japanese": "ハイキュー!! TO THE TOP",
@@ -38,7 +38,7 @@
         },
         {
             "id": 4,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
             "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
             "synonim": "The Irregular at Magic High School: Visitor Arc",
             "japanese": "魔法科高校の劣等生 来訪者編",
@@ -50,7 +50,7 @@
         },
         {
             "id": 5,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
             "title": "Tonikaku Kawaii",
             "synonim": "TONIKAWA: Over the Moon For You",
             "japanese": "トニカクカワイイ",
@@ -62,7 +62,7 @@
         },
         {
             "id": 6,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
             "title": "Higurashi no Naku Koro ni Gou",
             "synonim": "Higurashi: When They Cry – Gou",
             "japanese": "ひぐらしのなく頃に業",
@@ -74,7 +74,7 @@
         },
         {
             "id": 7,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
             "title": "Majo no Tabitabi",
             "synonim": "The Journey of Elaina",
             "japanese": "魔女の旅々",
@@ -86,7 +86,7 @@
         },
         {
             "id": 8,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg",
             "title": "Noblesse",
             "synonim": "노블레스",
             "japanese": "NOBLESSE -ノブレス-",
@@ -98,7 +98,7 @@
         },
         {
             "id": 9,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
             "title": "Kamisama ni Natta Hi",
             "synonim": "The Day I Became a God",
             "japanese": "神様になった日",
@@ -110,7 +110,7 @@
         },
         {
             "id": 10,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
             "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
             "synonim": "Our Last Crusade or the Rise of a New World",
             "japanese": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
@@ -122,7 +122,7 @@
         },
         {
             "id": 11,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
             "title": "Akudama Drive",
             "synonim": "Akudama Drive",
             "japanese": "アクダマドライブ",
@@ -134,7 +134,7 @@
         },
         {
             "id": 12,
-            "image_url": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
             "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
             "synonim": "I'm standing on 1,000,000 lives.",
             "japanese": "100万の命の上に俺は立っている",
