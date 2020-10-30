@@ -2,63 +2,147 @@
     "posts": [
         {
             "id": 1,
-            "title": "Post 1",
-            "body": "Desc 1"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+            "title": "Jujutsu Kaisen",
+            "synonim": "Sorcery Fight",
+            "japanese": "呪術廻戦",
+            "type": "TV",
+            "episodes": 24,
+            "status": "Currently Airing",
+            "score": 8.25,
+            "link": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
         },
         {
             "id": 2,
-            "title": "Post 2",
-            "body": "Desc 1"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg"
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+            "synonim": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+            "japanese": "ダンジョンに出会いを求めるのは間違っているだろうかIII",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.66,
+            "link": "https://myanimelist.net/anime/40454/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_III"
         },
         {
             "id": 3,
-            "title": "Post 3",
-            "body": "Desc 1"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg"
+            "title": "Haikyuu!!: To the Top 2nd Season",
+            "synonim": "Haikyuu!! (2020) 2nd Season",
+            "japanese": "ハイキュー!! TO THE TOP",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 8.59,
+            "link": "https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season"
         },
         {
             "id": 4,
-            "title": "Post 4",
-            "body": "Desc 4"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg"
+            "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+            "synonim": "The Irregular at Magic High School: Visitor Arc",
+            "japanese": "魔法科高校の劣等生 来訪者編",
+            "type": "TV",
+            "episodes": 13,
+            "status": "Currently Airing",
+            "score": 7.77,
+            "link": "https://myanimelist.net/anime/40497/Mahouka_Koukou_no_Rettousei__Raihousha-hen"
         },
         {
             "id": 5,
-            "title": "Post 5",
-            "body": "Desc 5"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg"
+            "title": "Tonikaku Kawaii",
+            "synonim": "TONIKAWA: Over the Moon For You",
+            "japanese": "トニカクカワイイ",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.82,
+            "link": "https://myanimelist.net/anime/41389/Tonikaku_Kawaii"
         },
         {
             "id": 6,
-            "title": "Post 6",
-            "body": "Desc 6"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg"
+            "title": "Higurashi no Naku Koro ni Gou",
+            "synonim": "Higurashi: When They Cry – Gou",
+            "japanese": "ひぐらしのなく頃に業",
+            "type": "TV",
+            "episodes": 24,
+            "status": "Currently Airing",
+            "score": 7.43,
+            "link": "https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou"
         },
         {
             "id": 7,
-            "title": "Post 7",
-            "body": "Desc 7"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg"
+            "title": "Majo no Tabitabi",
+            "synonim": "The Journey of Elaina",
+            "japanese": "魔女の旅々",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.63,
+            "link": "https://myanimelist.net/anime/40571/Majo_no_Tabitabi"
         },
         {
             "id": 8,
-            "title": "Post 8",
-            "body": "Desc 8"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1798/109141.jpg"
+            "title": "Noblesse",
+            "synonim": "노블레스",
+            "japanese": "NOBLESSE -ノブレス-",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 6.67,
+            "link": "https://myanimelist.net/anime/41345/Noblesse"
         },
         {
             "id": 9,
-            "title": "Post 9",
-            "body": "Desc 9"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg"
+            "title": "Kamisama ni Natta Hi",
+            "synonim": "The Day I Became a God",
+            "japanese": "神様になった日",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.57,
+            "link": "https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi"
         },
         {
             "id": 10,
-            "title": "Post 10",
-            "body": "Desc 10"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg"
+            "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+            "synonim": "Our Last Crusade or the Rise of a New World",
+            "japanese": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 6.97,
+            "link": "https://myanimelist.net/anime/40595/Kimi_to_Boku_no_Saigo_no_Senjou_Aruiwa_Sekai_ga_Hajimaru_Seisen"
         },
         {
             "id": 11,
-            "title": "Post 11",
-            "body": "Desc 11"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg"
+            "title": "Akudama Drive",
+            "synonim": "Akudama Drive",
+            "japanese": "アクダマドライブ",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 7.73,
+            "link": "https://myanimelist.net/anime/41433/Akudama_Drive"
         },
         {
             "id": 12,
-            "title": "Post 12",
-            "body": "Desc 12"
+            "image_url": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg"
+            "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+            "synonim": "I'm standing on 1,000,000 lives.",
+            "japanese": "100万の命の上に俺は立っている",
+            "type": "TV",
+            "episodes": 12,
+            "status": "Currently Airing",
+            "score": 6.39,
+            "link": "https://myanimelist.net/anime/41380/100-man_no_Inochi_no_Ue_ni_Ore_wa_Tatteiru"
         }
     ],
     "comments": [
